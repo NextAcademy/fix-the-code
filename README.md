@@ -1,6 +1,6 @@
 # NEXT Academy
 
-This repo is used for the bootcamp to teach students about testing in Javascript using Jest.
+This repo is used at NEXT Academy's Coding Bootcamp to teach students about testing in Javascript with Jest.
 
 ## Setup Instructions
 
